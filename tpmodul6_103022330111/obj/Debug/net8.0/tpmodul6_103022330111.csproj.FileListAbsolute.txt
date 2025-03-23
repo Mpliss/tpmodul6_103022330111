@@ -1,0 +1,15 @@
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul6_103022330111\tpmodul6_103022330111\bin\Debug\net8.0\tpmodul6_103022330111.exe
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul6_103022330111\tpmodul6_103022330111\bin\Debug\net8.0\tpmodul6_103022330111.deps.json
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul6_103022330111\tpmodul6_103022330111\bin\Debug\net8.0\tpmodul6_103022330111.runtimeconfig.json
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul6_103022330111\tpmodul6_103022330111\bin\Debug\net8.0\tpmodul6_103022330111.dll
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul6_103022330111\tpmodul6_103022330111\bin\Debug\net8.0\tpmodul6_103022330111.pdb
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul6_103022330111\tpmodul6_103022330111\obj\Debug\net8.0\tpmodul6_103022330111.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul6_103022330111\tpmodul6_103022330111\obj\Debug\net8.0\tpmodul6_103022330111.AssemblyInfoInputs.cache
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul6_103022330111\tpmodul6_103022330111\obj\Debug\net8.0\tpmodul6_103022330111.AssemblyInfo.cs
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul6_103022330111\tpmodul6_103022330111\obj\Debug\net8.0\tpmodul6_103022330111.csproj.CoreCompileInputs.cache
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul6_103022330111\tpmodul6_103022330111\obj\Debug\net8.0\tpmodul6_103022330111.sourcelink.json
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul6_103022330111\tpmodul6_103022330111\obj\Debug\net8.0\tpmodul6_103022330111.dll
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul6_103022330111\tpmodul6_103022330111\obj\Debug\net8.0\refint\tpmodul6_103022330111.dll
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul6_103022330111\tpmodul6_103022330111\obj\Debug\net8.0\tpmodul6_103022330111.pdb
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul6_103022330111\tpmodul6_103022330111\obj\Debug\net8.0\tpmodul6_103022330111.genruntimeconfig.cache
+D:\Daftar Tugas\Semester 4\TP\KPL\tpmodul6_103022330111\tpmodul6_103022330111\obj\Debug\net8.0\ref\tpmodul6_103022330111.dll
