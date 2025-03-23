@@ -1,4 +1,6 @@
-﻿class SayaTubeVideo
+﻿using System.Diagnostics;
+
+class SayaTubeVideo
 {
     private int id;
     private string title;
@@ -6,6 +8,9 @@
 
     public SayaTubeVideo(string title)
     {
+        Debug.Assert(title.Length <= 100);
+        Debug.Assert(title != null);
+
         Random random = new Random();
         this.id = random.Next(10000, 99999);
         this.title = title;
@@ -14,11 +19,21 @@
 
     public void IncreasePlayCount(int count)
     {
-        if(count < 0)
+        try
         {
-            Console.WriteLine("Jumlah tidak boleh negatif");
+            if(count <= 0 || count > 10000000)
+            {
+                throw new ArgumentException("Error: Inputan play count harus 1 sampai 10.000.000");
+            }
+            checked
+            {
+                this.playcount += count;
+            }
         }
-        this.playcount += count;
+        catch(ArgumentException ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
     }
 
     public void PrintVideoDetails()
@@ -33,8 +48,10 @@ class program
 {
     static void Main()
     {
-        SayaTubeVideo video = new SayaTubeVideo("Tutorial Design by Contract - [Pieter Immanuel Sina]");
-        video.IncreasePlayCount(10);
+        SayaTubeVideo video = new SayaTubeVideo("Tutorial Design by Contract - [Pieter Immanuel Sinaga]");
+        video.IncreasePlayCount(10000000);
+        video.IncreasePlayCount(-1);
+        video.IncreasePlayCount(15000000);
         video.PrintVideoDetails();
     }
 }
